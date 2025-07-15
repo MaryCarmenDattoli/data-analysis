@@ -1,2 +1,2 @@
 # data-analysis
-Beginner-level Python projects focused on data analysis, visualization, and cleaning. Documenting my learning journey.
+Data-driven projects applying Python to business and marketing scenarios. Documenting my learning curve in data analysis.
